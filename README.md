@@ -15,8 +15,8 @@ When I started to map out the design and how I would design it, I felt really ov
 
 I did a crash course on bootstrap  and Java with the following videos with this video 
 
-* (https://youtu.be/-qfEOE4vtxE) 
-* (https://youtu.be/r1iul4uRFuE)
+* https://youtu.be/-qfEOE4vtxE 
+* https://youtu.be/r1iul4uRFuE
 
 I learned how important it was to have an organized code, and I know from a video that some people like to put the media queries on a separate CSS document, which I thought was terrific because it allowed me to have the style sheet on one side and start typing the media queries on another one. I felt like it was way more organized this way. This helped significantly because I first began coding the desktop version. 
 
@@ -31,5 +31,5 @@ Finally, I would appreciate it if you could look at [my first attempt to create 
 
 
 * All images were takem from [Unsplash](https://unsplash.com/)
-* Bootstrap v4.6.2 (https://getbootstrap.com/)
-* jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | (jquery.org/license)
+* Bootstrap v4.6.2 https://getbootstrap.com/
+* jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | https://jquery.org/license
