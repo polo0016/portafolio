@@ -1,12 +1,12 @@
 
-# H1 My Portafolio
+# H1My Portafolio
 
 Welcome to my portfolio! 
 
 With this page, I want to demonstrate my abilities to design a user-friendly website as well as my ability to code it using HTML, CSS, JavaScript and public libraries like Bootstrap
 
 
-## H2 The Process
+## H2The Process
 
 My biggest goal for this assignment was to make the website as close as possible to the design I had created, not knowing I would have to code it. I want it to look as professional as possible, so I spend a lot of time inspecting other websites and watching YouTube videos to learn how to code every element. I also challenged myself to use other options for my design instead of just relying on Grid and flex. 
 
@@ -27,7 +27,7 @@ Finally, I would appreciate it if you could look at [my first attempt to create 
 
 
 
-## H2 Assets 
+## H2Assets 
 
 
 * All images were takem from [Unsplash](https://unsplash.com/)
